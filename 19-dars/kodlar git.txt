@@ -1,0 +1,6 @@
+git clone (url)
+git add .
+git push origin main 
+git commit -m "testblabla blablablabla" 
+git config --global user.email ""
+git config --global user.name "" 
